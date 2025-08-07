@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta property="og:title" content="قلب السلام - الأقصى">
+  <meta property="og:description" content="مكان الصلاة والسلام في جبل البيت - الأقصى">
+  <meta property="og:image" content="temple_mount_background.jpg">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://yourdomain.com/arabic.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>قلب السلام - الأقصى</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: url('temple_mount_background.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+      direction: rtl;
+    }
+    .overlay {
+      background-color: rgba(0,0,0,0.6);
+      padding: 2em;
+      min-height: 100vh;
+    }
+    .header {
+      text-align: center;
+      padding: 2em 1em 1em;
+      position: relative;
+    }
+    .header h1 {
+      font-size: 3em;
+      margin-bottom: 0.3em;
+      color: #fffa;
+    }
+    .header h2 {
+      font-size: 1.8em;
+      color: #ccc;
+    }
+    .translate-button {
+      position: absolute;
+      left: 1em;
+      top: 1em;
+    }
+    .translate-button a {
+      background-color: transparent;
+      color: white;
+      padding: 8px 16px;
+      text-decoration: underline;
+      font-size: 1em;
+      border-radius: 6px;
+      border: 1px solid white;
+    }
+    .content {
+      max-width: 900px;
+      margin: auto;
+      padding: 2em;
+      line-height: 2em;
+      font-size: 1.4em;
+      color: #fefefe;
+    }
+    .content p {
+      margin-bottom: 1.8em;
+    }
+    .join-button {
+      text-align: center;
+      margin-top: 2em;
+    }
+    .join-button a {
+      background-color: #00aaff;
+      color: white;
+      padding: 12px 30px;
+      font-size: 1.3em;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+      /* Responsive Design */
+    @media screen and (max-width: 600px) {
+      .header h1 {
+        font-size: 2em;
+      }
+      .header h2 {
+        font-size: 1.2em;
+      }
+      .content {
+        padding: 1em;
+        font-size: 1.1em;
+      }
+      .join-button a {
+        font-size: 1.1em;
+        padding: 10px 20px;
+      }
+      .translate-button a {
+        font-size: 0.9em;
+        padding: 6px 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <div class="header">
+      <div class="translate-button">
+        <a href="Hebrew.html">תרגום לעברית</a>
+      </div>
+      <h1>وسأمنح السلام في هذا المكان (حجي 2:9)</h1>
+      <h1>ا"وفي هذا المكان أعطي السلام" (حجاي 2, 9)</h1>
+    </div>
+    <div class="content">
+      <p>
+المسجد الأقصى – جبل المعبد – يشغل مكانةً مركزيةً في هوياتنا في الأرض المقدسة.
+      </p>
+      <p>
+لمسجد الأقصى – جبل المعبد – يرمز الى قلب النزاع، لكننا نريد أن نرى ما يمكن أن يكون عليه - قلب السلام, قلب يستدر السلام الى كل اطراف الارض، كما تنبأ الأنبياء، كما يضخ القلب الدم إلى جميع الأعضاء. السلام الموجود في أعماق القلوب والمصادر وفي الأرض المقدسة وفي هدف المكان أن يكون بيت صلاة ودعاء لكل الشعوب.
+      </p>
+      <p>
+يصلون مسلمون ويهود ويؤمنون بالله الواحد، ويحبون تعميم إيمان التوحيد في العالم. اليوم، بالفعل، يأتي إلى المسجد الأقصى – جبل المعبد جموع من المؤمنين من كل الشعوب وفيه مصليات لعبادة الله الواحد. ما ينقص فيه هو تجلي اسمه 'السلام'.
+      </p>
+      <p>
+نحن نستهدف أن يكون هناك مكانًا لأولئك الذين يريدون أن يروا في المسجد الأقصى – جبل المعبد – مكانًا للسلام أن نستطيع فيه أن ندعو جميعًا باسم الله ونعبده بكتف وحدة بشراكة بدون طمس التراث والهويات المختلفة وبالاحترام لله ولمؤمنيه.
+      </p>
+      <p>
+نحن ندعوكم الى انضمام الينا للدعاء والخطاب والدرس المشتركات بفتح القلب للسلام في المسجد الأقصى – جبل المعبد – بالايمان والاعتراف والاحترام.      </p>
+      <div class="join-button">
+        <a href="https://forms.gle/DGFNxV3HjKKUdKrp9" target="_blank">انضموا إلينا</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
