@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta property="og:title" content="לב השלום - הר הבית">
+  <meta property="og:description" content="מקום תפילה ושלום בהר הבית - אל-אקצא">
+  <meta property="og:image" content="temple_mount_background.jpg">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://yourdomain.com/index.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>לב השלום قلب السلام - الاقصى הר הבית</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: url('temple_mount_background.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+      direction: rtl;
+    }
+    .overlay {
+      background-color: rgba(0,0,0,0.6);
+      padding: 2em;
+      min-height: 100vh;
+    }
+    .header {
+      text-align: center;
+      padding: 2em 1em 1em;
+      position: relative;
+    }
+    .header h1 {
+      font-size: 3em;
+      margin-bottom: 0.3em;
+      color: #fffa;
+    }
+    .header h2 {
+      font-size: 1.8em;
+      color: #ccc;
+    }
+    .translate-button {
+      position: absolute;
+      left: 1em;
+      top: 1em;
+    }
+    .translate-button a {
+      background-color: transparent;
+      color: white;
+      padding: 8px 16px;
+      text-decoration: underline;
+      font-size: 1em;
+      border-radius: 6px;
+      border: 1px solid white;
+    }
+    .content {
+      max-width: 900px;
+      margin: auto;
+      padding: 2em;
+      line-height: 2em;
+      font-size: 1.4em;
+      color: #fefefe;
+    }
+    .content p {
+      margin-bottom: 1.8em;
+    }
+    .join-button {
+      text-align: center;
+      margin-top: 2em;
+    }
+    .join-button a {
+      background-color: #00aaff;
+      color: white;
+      padding: 12px 30px;
+      font-size: 1.3em;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+
+    /* Responsive Design */
+    @media screen and (max-width: 600px) {
+      .header h1 {
+        font-size: 2em;
+      }
+      .header h2 {
+        font-size: 1.2em;
+      }
+      .content {
+        padding: 1em;
+        font-size: 1.1em;
+      }
+      .join-button a {
+        font-size: 1.1em;
+        padding: 10px 20px;
+      }
+      .translate-button a {
+        font-size: 0.9em;
+        padding: 6px 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <div class="header">
+      <div class="translate-button">
+        <a href="arabic.html">الترجمة للعربية</a>
+      </div>
+      <h1>ובמקום הזה אתן שלום (חגי ב, ט)</h1>
+      <h2>"מסגד אל-אקצא אשר ברכנו את סביבותיו" (קוראן, 17, 1) </h1>
+    </div>
+    <div class="content">
+      <p>
+הר הבית – מסגד אלאקצא – לוקח חלק מרכזי בזהויות שלנו בארץ הקודש.
+</p>
+      <p>
+כיום הר הבית – מסגד אלאקצא – מסמל את לב הסכסוך, אך אנחנו רוצים לראות בו את מה שהוא יכול להיות - לב השלום, לב שיזרים את השלום החוצה לכל קצוות תבל, כפי שחזו הנביאים, כמו הלב שמזרים דם לאברים כולם. שלום שקיים עמוק בלבבות, במקורות ובאדמה המקודשת וביעודו של המקום להיות בית תפילה לכל העמים.
+      </p>
+      <p>
+יהודים ומוסלמים מתפללים ומאמינים באל האחד, ומבקשים שאמונת הייחוד תתפשט בעולם. כבר היום מגיעים להר הבית – מסגד אלאקצא - המוני מאמינים מכל העמים, ובו אולמות לעבודת אותו האל. מה שחסר בו הוא גילוי שמו 'שלום'.
+      </p>
+      <p>
+אנו שואפים שיהיה מקום למי שרוצים לראות בהר הבית – מסגד אלאקצא – מקום של שלום, שבו נוכל לקרוא כולם בשם האל ולעובדו שכם אחד, בשותפות, מבלי לטשטש את המסורות והזהויות השונות ובכבוד לאל ולמאמיניו.
+</p>
+      <p>
+אנחנו מזמינים אתכם להצטרף אלינו לתפילה, שיח ולימוד משותפים בפתיחת הלב לשלום בהר בית – מסגד אלאקצא  –  מתוך אמונה, הכרה וכבוד.
+      </p>
+      <div class="join-button">
+        <a href="https://forms.gle/DGFNxV3HjKKUdKrp9" target="_blank">הצטרפו אלינו</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
